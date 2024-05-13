@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\obj\Debug\net8.0\CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\obj\Debug\net8.0\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\obj\Debug\net8.0\CaesarCipher.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\obj\Debug\net8.0\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\bin\Debug\net8.0\CaesarCipher.exe
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\bin\Debug\net8.0\CaesarCipher.deps.json
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\bin\Debug\net8.0\CaesarCipher.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\bin\Debug\net8.0\CaesarCipher.dll
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\bin\Debug\net8.0\CaesarCipher.pdb
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\obj\Debug\net8.0\CaesarCipher.dll
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\obj\Debug\net8.0\refint\CaesarCipher.dll
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\obj\Debug\net8.0\CaesarCipher.pdb
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\obj\Debug\net8.0\CaesarCipher.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\Lab 1\CaesarCipher\obj\Debug\net8.0\ref\CaesarCipher.dll
